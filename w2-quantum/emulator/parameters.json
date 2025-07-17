@@ -91,10 +91,10 @@
               "kind": "readout",
               "acquisition": {
                 "kind": "acquisition",
-                "duration": 100.0
+                "duration": 1.0
               },
               "probe": {
-                "duration": 100.0,
+                "duration": 1.0,
                 "amplitude": 0.1,
                 "envelope": {
                   "kind": "gaussian",
